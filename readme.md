@@ -8,6 +8,5 @@
 * Data wrangling and cleaning to obtain more useful information.
 * Data exploration to determine the:
   * best players, highest earners based on their playing position.
-  * nations with the most valued players.
-  * most versatile players.
+  * nations and clubs with the most valued players.
   * various comparisons based on the playing position.
