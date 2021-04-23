@@ -1,13 +1,14 @@
 # An Exploratory Data Analysis on Fifa 18 Player Data
 
-* This data was obtained from [Kaggle](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
-* The aim of this notebook is to explore the data with the goal of obtaining as much information as possible.
+## Project Objective
 
-## Tasks performed in this notebook include:
+* The aim of this notebook is to perform exploratory data analysis on the data with the goal of obtaining insights.
+* Data cleaning and Feature Engineering were also performed.
 
-* Data wrangling and cleaning to obtain more useful information.
-* Data exploration to determine the:
-  * best players, highest earners based on their playing position.
-  * nations with the most valued players.
-  * most versatile players.
-  * various comparisons based on the playing position.
+### Methods Used
+
+* Descriptive Statistics.
+* Data Visualization.
+* Regular Expressions.
+
+This data was obtained from [Kaggle](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
